@@ -26,27 +26,27 @@ $ python3 Xhawk.py
 - **Last**: And yes you will get what you want
 
 # Feature
-| Main menu |  |
+| Main menu | ⚡ |
 |--------|--------|
-| **Information Gathering** |  |
-| **SQL Injection Scanner** |  |
-| **XSS Scanner** |  |
-| **Dorking** |  |
-| **DNS Lookup** |  |
-| **Web Crawler** |  |
-| **Server Information** |  |
-| **SSL Scanner** |  |
-| **Security Headers Checker** |  |
-| **Web Technology Detector** |  |
-| **Directory Scanner** |  |
-| **Subdomain Finder** |  |
-| **Port Scanner** |  |
-| **Whois Lookup** |  |
-| **IP Tracker** |  |
-| **Email Harvester** |  |
-| **CMS Detector** |  |
-| **Header Analysis** |  |
-| **Broken Link Checker** |  |
+| **Information Gathering** | ✔️ |
+| **SQL Injection Scanner** | ✔️ |
+| **XSS Scanner** | ✔️ |
+| **Dorking** | ✔️ |
+| **DNS Lookup** | ✔️ |
+| **Web Crawler** | ✔️ |
+| **Server Information** | ✔️ |
+| **SSL Scanner** | ✔️ |
+| **Security Headers Checker** | ✔️ |
+| **Web Technology Detector** | ✔️ |
+| **Directory Scanner** | ✔️ |
+| **Subdomain Finder** | ✔️ |
+| **Port Scanner** | ✔️ |
+| **Whois Lookup** | ✔️ |
+| **IP Tracker** | ✔️ |
+| **Email Harvester** | ✔️ |
+| **CMS Detector** | ✔️ |
+| **Header Analysis** | ✔️ |
+| **Broken Link Checker** | ✔️ |
 ---------
 
 ## Observation
