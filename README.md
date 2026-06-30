@@ -44,7 +44,7 @@ $ python3 Xhawk.py
 | **Whois Lookup** | ✔️ |
 | **IP Tracker** | ✔️ |
 | **Email Harvester** | ✔️ |
-| **CMS Detector** | ✔️ |
+| **CMS Detector** |✔️ |
 | **Header Analysis** | ✔️ |
 | **Broken Link Checker** | ✔️ |
 ---------
